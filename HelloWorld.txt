@@ -1,0 +1,8 @@
+print("Hello World~~\n");
+cout << "Hello World~~" << endl;
+print "Hello World~~"
+System.out.println("Hello World~~")
+echo "Hello World~~"
+<h1>Hello World~~</h1>
+document.write("Hello World~~")
+trace("Hello World~~")
